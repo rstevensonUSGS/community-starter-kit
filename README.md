@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+An app to help new contributors to this Repo 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The bot provides insight and help as you make your first pull request. 
 
 ## Getting started
 
